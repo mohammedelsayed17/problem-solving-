@@ -1,0 +1,14 @@
+E:\problem solving using c#\bin\Debug\net9.0\problem solving using c#.exe
+E:\problem solving using c#\bin\Debug\net9.0\problem solving using c#.deps.json
+E:\problem solving using c#\bin\Debug\net9.0\problem solving using c#.runtimeconfig.json
+E:\problem solving using c#\bin\Debug\net9.0\problem solving using c#.dll
+E:\problem solving using c#\bin\Debug\net9.0\problem solving using c#.pdb
+E:\problem solving using c#\obj\Debug\net9.0\problem solving using c#.GeneratedMSBuildEditorConfig.editorconfig
+E:\problem solving using c#\obj\Debug\net9.0\problem solving using c#.AssemblyInfoInputs.cache
+E:\problem solving using c#\obj\Debug\net9.0\problem solving using c#.AssemblyInfo.cs
+E:\problem solving using c#\obj\Debug\net9.0\problem solving using c#.csproj.CoreCompileInputs.cache
+E:\problem solving using c#\obj\Debug\net9.0\problem solving using c#.dll
+E:\problem solving using c#\obj\Debug\net9.0\refint\problem solving using c#.dll
+E:\problem solving using c#\obj\Debug\net9.0\problem solving using c#.pdb
+E:\problem solving using c#\obj\Debug\net9.0\problem solving using c#.genruntimeconfig.cache
+E:\problem solving using c#\obj\Debug\net9.0\ref\problem solving using c#.dll
